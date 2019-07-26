@@ -1,4 +1,4 @@
-#An Idea App
+# An Idea App
 
 A place to see and post ideas, todos, stories etc in the style of reddit and twitter.
 
