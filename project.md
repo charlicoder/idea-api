@@ -10,3 +10,20 @@ A place to see and post ideas, todos, stories etc in the style of reddit and twi
 # Stack
 - Database - PostgreSQL
 - REST API - NestJS
+
+
+
+{
+    "type": "postgres",
+    "host": "raja.db.elephantsql.com",
+    "port": 5432,
+    "username": "llhkjvvu",
+    "password": "bRu0jtJN0UwIdTb6LFzU-KOG3x8ijHR0",
+    "database": "llhkjvvu",
+    "synchronize": true,
+    "logging": true,
+    "entities": [
+        "./src/**/*.entity.ts",
+        "./dist/**/*.entity.js"
+    ]
+}
